@@ -47,11 +47,11 @@
       "description": "An immense mausoleum of white marble, built in Agra by Mughal emperor Shah Jahan."
     }
   ],
- "beaches": [
+  "beaches": [
     {
       "id": 1,
       "name": "Bora Bora, French Polynesia",
-      "imageUrl": "https://images.unsplash.com/photo-1533281254359-99f6b92f4c9c?w=500",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bora_Bora.jpg/800px-Bora_Bora.jpg",
       "description": "An island known for its scuba diving and luxury resort destinations."
     },
     {
@@ -61,3 +61,4 @@
       "description": "A vibrant and iconic beach in Rio de Janeiro, known for its lively atmosphere."
     }
   ]
+}
